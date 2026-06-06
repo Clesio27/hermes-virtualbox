@@ -101,11 +101,3 @@ Aqui estão os comandos essenciais para gerenciar seu Hermes como um expert:
 
 Dica de ouro: Estas São as respostas obtidas, suas referências, as dificuldades que encontrei para extrair a melhor resposta da IA foi apenas encontrar fontes saudaveis de dados com base no meu objetivo (troubleshooting). O raciocínio por trás dos resultados! sempre foi esse passo a passo pratico para utilização do agente hermes atraves de uma maquina virtual no virtualbox atraves do telegram
 
-Como Entregar na Plataforma da DIO:
-
-Acesse o seu GitHub e crie um novo repositório para o projeto.
-Estruture seu README.md com todos os passos solicitados acima (objetivos, fontes, testes de prompts e o miniguia).
-Após finalizar a documentação, copie a URL principal do seu repositório.
-Na página do Desafio de Projeto aqui na DIO, clique no botão de entregar o projeto.
-Cole o link do seu repositório no GitHub, adicione uma descrição bacana sobre o tema que você estudou e confirme a entrega!
-Bons estudos 😉
